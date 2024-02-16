@@ -1,11 +1,9 @@
 {
     "version":  "1.0",
-    "license":  "",
-    "extract_dir":  "",
+    "license":  "Unlicense",
+    "description":  "7-th FARM FRENZY",
     "url":  "https://github.com/Lobanokivan11/FarmFrenzy3_Russia/releases/download/1.0/FarmFrenzy3_Russia.zip",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
+    "homepage":  "https://github.com/Lobanokivan11/FarmFrenzy3_Russia",
     "bin":  "FarmFrenzy3_Russia.exe",
     "shortcuts": [
         [
