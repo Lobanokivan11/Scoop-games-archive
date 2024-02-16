@@ -1,11 +1,9 @@
 {
     "version":  "1.0",
-    "license":  "",
-    "extract_dir":  "",
+    "license":  "Unlicense",
+    "description":  "SECOND FARM FRENZY",
     "url":  "https://github.com/Lobanokivan11/FarmFrenzy2/releases/download/1.0/farm2.zip",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
+    "homepage":  "https://github.com/Lobanokivan11/FarmFrenzy2",
     "bin":  "farm2.exe",
     "shortcuts": [
         [
