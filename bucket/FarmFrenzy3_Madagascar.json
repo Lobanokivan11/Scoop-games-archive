@@ -1,11 +1,9 @@
 {
     "version":  "1.0",
-    "license":  "",
-    "extract_dir":  "",
+    "license":  "Unlicense",
+    "description":  "6-th FARM FRENZY",
     "url":  "https://github.com/Lobanokivan11/FarmFrenzy3_Madagascar/releases/download/1.0/FarmFrenzy3_Madagascar.zip",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
+    "homepage":  "https://github.com/Lobanokivan11/FarmFrenzy3_Madagascar",
     "bin":  "FarmFrenzy3_Madagascar.exe",
     "shortcuts": [
         [
