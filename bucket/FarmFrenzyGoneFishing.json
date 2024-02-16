@@ -1,11 +1,9 @@
 {
     "version":  "1.0",
-    "license":  "",
-    "extract_dir":  "",
+    "license":  "Unlicense",
+    "description":  "9-th FARM FRENZY",
     "url":  "https://github.com/Lobanokivan11/FarmFrenzyGoneFishing/releases/download/1.0/FarmFrenzyGoneFishing.zip",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
+    "homepage":  "https://github.com/Lobanokivan11/FarmFrenzyGoneFishing",
     "bin":  "FarmFrenzyGoneFishing.exe",
     "shortcuts": [
         [
