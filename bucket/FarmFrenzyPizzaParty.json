@@ -1,11 +1,9 @@
 {
     "version":  "1.0",
-    "license":  "",
-    "extract_dir":  "",
+    "license":  "Unlicense",
+    "description":  "10-th FARM FRENZY",
     "url":  "https://github.com/Lobanokivan11/FarmFrenzyPizzaParty/releases/download/1.0/FarmFrenzyPizzaParty.zip",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
+    "homepage":  "https://github.com/Lobanokivan11/FarmFrenzyPizzaParty",
     "bin":  "FarmFrenzyPizzaParty.exe",
     "shortcuts": [
         [
