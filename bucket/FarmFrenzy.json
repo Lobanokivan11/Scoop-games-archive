@@ -1,0 +1,16 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://github.com/Lobanokivan11/FarmFrenzy/releases/download/1.0/farm.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "farm.exe",
+    "shortcuts": [
+        [
+            "farm.exe",
+            "Farm Frenzy"
+        ]
+    ]
+}

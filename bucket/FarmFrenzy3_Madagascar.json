@@ -1,0 +1,16 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://github.com/Lobanokivan11/FarmFrenzy3_Madagascar/releases/download/1.0/FarmFrenzy3_Madagascar.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "FarmFrenzy3_Madagascar.exe",
+    "shortcuts": [
+        [
+            "FarmFrenzy3_Madagascar.exe",
+            "Farm Frenzy 3 Madagascar"
+        ]
+    ]
+}

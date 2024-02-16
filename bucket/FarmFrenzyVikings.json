@@ -1,0 +1,16 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://github.com/Lobanokivan11/FarmFrenzyVikings/releases/download/1.0/FarmFrenzyVikings.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "FarmFrenzyVikings.exe",
+    "shortcuts": [
+        [
+            "FarmFrenzyVikings.exe",
+            "Farm Frenzy Viking Heroes"
+        ]
+    ]
+}

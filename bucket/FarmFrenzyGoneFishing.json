@@ -1,0 +1,16 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://github.com/Lobanokivan11/FarmFrenzyGoneFishing/releases/download/1.0/FarmFrenzyGoneFishing.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "FarmFrenzyGoneFishing.exe",
+    "shortcuts": [
+        [
+            "FarmFrenzyGoneFishing.exe",
+            "Farm Frenzy Gone Fishing"
+        ]
+    ]
+}

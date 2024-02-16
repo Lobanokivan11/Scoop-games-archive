@@ -1,0 +1,16 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://github.com/Lobanokivan11/FarmFrenzy3_Arctica/releases/download/1.0/FarmFrenzy3_Arctica.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "FarmFrenzy3_Arctica.exe",
+    "shortcuts": [
+        [
+            "FarmFrenzy3_Arctica.exe",
+            "Farm Frenzy 3 Ice Age"
+        ]
+    ]
+}
