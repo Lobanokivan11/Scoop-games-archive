@@ -1,11 +1,9 @@
 {
     "version":  "1.0",
-    "license":  "",
-    "extract_dir":  "",
+    "license":  "Unlicense",
+    "description":  "THIRD FARM FRENZY",
     "url":  "https://github.com/Lobanokivan11/FarmFrenzy3/releases/download/1.0/FarmFrenzy3.zip",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
+    "homepage":  "https://github.com/Lobanokivan11/FarmFrenzy3",
     "bin":  "FarmFrenzy3.exe",
     "shortcuts": [
         [
