@@ -19,6 +19,7 @@
     "persist": [
 	["FeData", "pc", "config"],
 	["FeData", "pc", "save"],
+    ["FeData", "pc", "stats"],
 	"nfs2se.ini"
     ]
 }
