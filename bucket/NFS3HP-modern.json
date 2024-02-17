@@ -19,6 +19,8 @@
     "persist": [
 	["FeData", "config"],
 	["FeData", "save"],
+    ["FeData", "speeds"],
+    ["FeData", "stats"],
 	"screenshots",
 	"nfs3.ini",
 	"setupMP.ini"
